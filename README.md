@@ -1,7 +1,7 @@
-# PCB-to-hold-5pole-jack
+# PCB-5pole-jack-holder
 BF-023 Printed Circuit Board to mount and hold JEITA RC-8141C "Pentaconn" Jack
 
-<img src="https://github.com/botanicfields/PCB-hold-5pole-jack/blob/main/bf-023a.JPG" width=500>
+<img src="https://github.com/botanicfields/PCB-5pole-jack-holder/blob/main/bf-023a.JPG" width=500>
 
 Left: Parts Side, Right: Solder Side
 
@@ -19,7 +19,7 @@ There are 3.2mmmΦ holes at the four corners for mounting on the case or chassis
 ターミナルブロックを使用せず、信号や GND にケーブルを直付けすることも可能です。
 ケースやシャーシへの取り付け用に、四隅に 3.2mmmΦ の穴があります。一点アースを考慮し、これらの穴は基板の GND パターンとは繋がっていません。
 
-<img src="https://github.com/botanicfields/PCB-hold-5pole-jack/blob/main/bf-023b.JPG" width=500>
-<img src="https://github.com/botanicfields/PCB-hold-5pole-jack/blob/main/bf-023c.JPG" width=500>
-<img src="https://github.com/botanicfields/PCB-hold-5pole-jack/blob/main/bf-023d.JPG" width=500>
-<img src="https://github.com/botanicfields/PCB-hold-5pole-jack/blob/main/bf-023e.JPG" width=500>
+<img src="https://github.com/botanicfields/PCB-5pole-jack-holder/blob/main/bf-023c.JPG" width=500>
+<img src="https://github.com/botanicfields/PCB-5pole-jack-holder/blob/main/bf-023d.JPG" width=500>
+<img src="https://github.com/botanicfields/PCB-5pole-jack-holder/blob/main/bf-023e.JPG" width=500>
+<img src="https://github.com/botanicfields/PCB-5pole-jack-holder/blob/main/bf-023b.JPG" width=500>
